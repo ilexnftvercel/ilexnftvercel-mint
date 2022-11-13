@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCee9d8dc50cF2746dd38A018E634d98Da2DCF364",
+  "SCAN_LINK": "https://etherscan.io/address/0xCee9d8dc50cF2746dd38A018E634d98Da2DCF364",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Metagirl",
+  "SYMBOL": "MTG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 69000000000000000,
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 500000,
+  "MARKETPLACE": "OPENSEA",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": false
+}
