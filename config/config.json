@@ -1,6 +1,6 @@
 {
   "CONTRACT_ADDRESS": "0x52d3d38ceca694c3dd163a85ef8a08e0edc7b07b",
-  "SCAN_LINK": "https://etherscan.io/address/0xCee9d8dc50cF2746dd38A018E634d98Da2DCF364",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x52d3d38ceca694c3dd163a85ef8a08e0edc7b07b",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Eth",
