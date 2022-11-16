@@ -6,8 +6,8 @@
     "SYMBOL": "Eth",
     "ID": 5
   },
-  "NFT_NAME": "ILEX",
-  "SYMBOL": "ILEX POLEMEN",
+  "NFT_NAME": "ILEX POLEMEN",
+  "SYMBOL": "ILEX",
   "MAX_SUPPLY": 3000,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
